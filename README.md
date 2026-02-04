@@ -7,4 +7,5 @@ Use YOLO to identify and classify recycled beverage bottles.
 
 {}
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## 使用 YOLO 辨識與分類資源回收飲料瓶 科展說明書報告 在家預演 01 
+[![使用 YOLO 辨識與分類資源回收飲料瓶 在家預演 01 ](https://github.com/TRexTW/YOLO-Recycling/blob/main/figure/Use-YOLO-to-identify-and-classify-recycled-beverage-bottles-rehearsal-20250427.png?raw=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
