@@ -1,4 +1,5 @@
 # YOLO-Recycling
+Use YOLO to identify and classify recycled beverage bottles.
 
 ## 使用 YOLO 辨識與分類資源回收飲料瓶
 ## by 李帥帥 （114年科展之部份資料）
